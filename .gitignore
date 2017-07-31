@@ -2,10 +2,3 @@
 .idea
 out
 build
-kotlinfrontend/.gradle
-kotlinfrontend/out
-kotlinfrontend/build
-kotlinbackend/.gradle
-kotlinbackend/out
-kotlinbackend/.gradle
-kotlinfrontend/web
